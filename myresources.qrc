@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/yek.jpg</file>
+        <file>images/do.jpg</file>
+        <file>images/chahar.jpg</file>
+        <file>images/panj.jpg</file>
+        <file>images/sade.jpg</file>
+        <file>images/baadi.jpg</file>
+        <file>images/akhar.jpg</file>
+        <file>astronaut zombie.jpg</file>
+        <file>astronaut zombie_transparent.png</file>
+        <file>boomerang.jpg</file>
+        <file>boomrang_transparent.png</file>
+        <file>Bucket head zombie.jpg</file>
+        <file>Bucket head zombie_trasparent.png</file>
+        <file>field.png</file>
+        <file>field2.png</file>
+        <file>jalapino.jpg</file>
+        <file>jalapino_transparent.png</file>
+        <file>leaf hair zombie.jpg</file>
+        <file>leaf hair zombie_transparent.png</file>
+        <file>pea shooter.jpg</file>
+        <file>plum mine.jpg</file>
+        <file>plum mine_transparent.png</file>
+        <file>purple hair zombie.jpg</file>
+        <file>purple hair zombie_transparent.png</file>
+        <file>regular zombie.jpg</file>
+        <file>regular zombie_transparent.png</file>
+        <file>shoot.png</file>
+        <file>shoot2.png</file>
+        <file>shoot3.png</file>
+        <file>tall zombie.jpg</file>
+        <file>tall zombie_transparent.png</file>
+        <file>two_peashooter.jpg</file>
+        <file>two_peashooter_transparent.png</file>
+        <file>walnut.jpg</file>
+        <file>walnut_transparent.png</file>
+        <file>Brain.png</file>
+        <file>sun.png</file>
+        <file>peashooter</file>
+    </qresource>
+</RCC>

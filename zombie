@@ -1,0 +1,8 @@
+#include "zombie"
+
+zombie::zombie(QObject *parent)
+    : QObject{parent}
+{
+
+
+}

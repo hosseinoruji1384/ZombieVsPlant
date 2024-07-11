@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/field">
+        <file>field.png</file>
+    </qresource>
+</RCC>

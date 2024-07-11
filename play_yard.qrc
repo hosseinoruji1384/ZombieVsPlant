@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/field">
+        <file>field.png</file>
+        <file>field2.png</file>
+    </qresource>
+    <qresource prefix="/plants">
+        <file>peashooter</file>
+        <file>jalapino_transparent.png</file>
+        <file>walnut_transparent.png</file>
+        <file>two_peashooter_transparent.png</file>
+        <file>plum mine_transparent.png</file>
+        <file>boomrang_transparent.png</file>
+    </qresource>
+    <qresource prefix="/plants_cards">
+        <file>pea shooter.jpg</file>
+        <file>jalapino.jpg</file>
+        <file>walnut.jpg</file>
+        <file>two_peashooter.jpg</file>
+        <file>plum mine.jpg</file>
+        <file>boomerang.jpg</file>
+    </qresource>
+    <qresource prefix="/zombies">
+        <file>astronaut zombie.jpg</file>
+        <file>Bucket head zombie.jpg</file>
+        <file>leaf hair zombie.jpg</file>
+        <file>purple hair zombie.jpg</file>
+        <file>regular zombie.jpg</file>
+        <file>tall zombie.jpg</file>
+    </qresource>
+    <qresource prefix="/zombies_p">
+        <file>astronaut zombie_transparent.png</file>
+        <file>Bucket head zombie_trasparent.png</file>
+        <file>leaf hair zombie_transparent.png</file>
+        <file>purple hair zombie_transparent.png</file>
+        <file>regular zombie_transparent.png</file>
+        <file>tall zombie_transparent.png</file>
+    </qresource>
+    <qresource prefix="/zombiesgif">
+        <file>regulargif.mp4</file>
+        <file>astronautgif.mp4</file>
+        <file>buckedheadgif.mp4</file>
+    </qresource>
+    <qresource prefix="/shoots">
+        <file>shoot2.png</file>
+        <file>zombies VS plants pictures/Brain.png</file>
+        <file>zombies VS plants pictures/sun.png</file>
+        <file>zombies VS plants pictures/shoot.png</file>
+        <file>zombies VS plants pictures/shoot3.png</file>
+    </qresource>
+</RCC>

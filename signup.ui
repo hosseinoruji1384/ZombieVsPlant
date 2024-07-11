@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Signup</class>
+ <widget class="QWidget" name="Signup">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>676</width>
+    <height>458</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+background-image: url(:/images/do.jpg);</string>
+  </property>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>221</x>
+     <y>111</y>
+     <width>265</width>
+     <height>219</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="userFieldLabel">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string> name :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="userFieldLineEdit">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/sade.jpg);</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="usernameLabel">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string> user name :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLineEdit" name="usernameLineEdit">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/sade.jpg);</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="passwordLabel">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);
+</string>
+      </property>
+      <property name="text">
+       <string> password :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="passwordLineEdit">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/sade.jpg);</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QCheckBox" name="showPasswordCheckBox">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/sade.jpg);</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="emailLabel">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string>email :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QLineEdit" name="emailLineEdit">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/sade.jpg);</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="phoneLabel">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string>PhoneNumber :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1">
+     <widget class="QLineEdit" name="phoneLineEdit">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/sade.jpg);</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="0">
+     <widget class="QPushButton" name="backButton">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string>Back</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="1">
+     <widget class="QPushButton" name="signupButton">
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/images/panj.jpg);
+color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string>Signup</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
